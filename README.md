@@ -15,5 +15,5 @@ The Structure:
                                                                
                                                                
                                                                
-- Make a python Script that download the Seclist | Easy
+- Make a python Script that download the Seclist | Easy | https://github.com/Copecofee/Daily_Hacking_coding_challenge/blob/main/Download_The_Seclist.py
 - Make a python Script that discover the usersname/username of the system | Easy
