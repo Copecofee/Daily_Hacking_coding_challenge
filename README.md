@@ -16,3 +16,4 @@ The Structure:
                                                                
                                                                
 - Make a python Script that download the Seclist | Easy
+- Make a python Script that discover the usersname/username of the system | Easy
