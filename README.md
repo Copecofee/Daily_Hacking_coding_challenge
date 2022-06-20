@@ -13,7 +13,7 @@ The Structure:
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
                                                           Challenges
                                                                
- ----------------------------------------------------------------------------------------------------------------------------------------------------------
+ 
  
  
  DATE: ?/?/?   
@@ -23,3 +23,9 @@ The Structure:
 - Make a python Script that discover the user logged on system and how many users there are in | DATE: 19/06/22 | Easy | https://github.com/Copecofee/Daily_Hacking_coding_challenge/blob/main/User_Discover.py 
 - ?
 - ?
+
+
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                      git clone https://github.com/Copecofee/Daily_Hacking_coding_challenge/
