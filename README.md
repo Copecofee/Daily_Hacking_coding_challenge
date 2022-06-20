@@ -27,4 +27,4 @@ The Structure:
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                           git clone
+                                          git clone https://github.com/Copecofee/Daily_Hacking_coding_challenge
