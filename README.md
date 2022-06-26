@@ -16,12 +16,12 @@ The Structure:
  
  
  
- DATE: ?/?/?   
+   
  DATE: ?/?/?
                
 - Make a python Script that download the Seclist | DATE: 19/06/22 | Easy | https://github.com/Copecofee/Daily_Hacking_coding_challenge/blob/main/Download_The_Seclist.py
 - Make a python Script that discover the user logged on system and how many users there are in | DATE: 19/06/22 | Easy | https://github.com/Copecofee/Daily_Hacking_coding_challenge/blob/main/User_Discover.py 
-- ?
+- Make one script able to do a web requests and then show the HTML document | DATE: 26/06/22 | https://github.com/Copecofee/Daily_Hacking_coding_challenge/blob/main/Web_Content.py
 - ?
 
 
