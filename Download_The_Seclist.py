@@ -1,4 +1,4 @@
-#Made byCopecofee
+#Made by Copecofee
 
 #WARNING: Be careful if you use this script because when you download the Seclist will be use 834.5 MB from your storaged 
 
