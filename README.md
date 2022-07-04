@@ -1,5 +1,5 @@
 # Daily_Hacking_coding_challenge
-In this repository I'll create a challenge that involves my hacking knowledge and put them to be test. 2 challenges per Week with the purpose to develop my logic and to do not forget some things 
+In this repository I'll create a challenge that involves my hacking knowledge and put them to be test. 2 challenges per Week with the purpose to develop my logic and to do not forget some things.
 
 The Structure:
               CHALLENGE | DATE | MODE | CODE
