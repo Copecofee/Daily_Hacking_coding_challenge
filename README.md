@@ -24,6 +24,8 @@ The Structure:
 - Make a HTML file Able to run python into the code | DATE: 26/06/22 | https://github.com/Copecofee/Daily_Hacking_coding_challenge/blob/main/py_in.html
 - Make one file which downloads youtbe videos and convert to mp3 | DATE: 04/07/2022 |                                https://github.com/Copecofee/Daily_Hacking_coding_challenge/blob/main/yt_downloader.py 
 
+Vacation: I`ll come back 26/07/22
+
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
                                  git clone https://github.com/Copecofee/Daily_Hacking_coding_challenge
